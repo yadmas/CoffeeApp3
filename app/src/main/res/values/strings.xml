@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Samuel Day CoffeeApp3</string>
+    <string name="Toppings">Toppings</string>
+    <string name="EnterName">Enter your Name</string>
+    <string name="cream">Whipped Cream</string>
+    <string name="choc">Chocolate</string>
+    <string name="email">Email</string>
+    <string name="text_order_details">Your Order Details</string>
+
+</resources>
